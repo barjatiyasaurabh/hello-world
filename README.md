@@ -1,17 +1,18 @@
-* Hello-world project
-** Compilation
-   #+BEGIN_EXAMPLE
-   gcc -Wall -o hello_world hello_world.c
-   #+END_EXAMPLE
+#Hello-world project
 
-** Execute
-   #+BEGIN_EXAMPLE
+Compilation
+===========
+
+   gcc -Wall -o hello_world hello_world.c
+
+Execute
+=======
+
    ./hello_world
-   +#END_EXAMPLE
-   
-** Expected Output
-  #+BEGIN_EXAMPLE
+
+Expected Output
+===============
+
   hello world
-  #+END_EXAMPLE
-  
+
   
